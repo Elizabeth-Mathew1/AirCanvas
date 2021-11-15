@@ -1,1 +1,1 @@
-worker: python chapter1.py
+web: python chapter1.py
