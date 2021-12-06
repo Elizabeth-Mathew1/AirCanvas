@@ -4,7 +4,7 @@
 ### :mortar_board:  About the project
 
 AirCanvas is a simple application that lets u draw in air depending on the colour of your pen.The model has been trained to detect and draw in three colours, orange,
-violet and green. So if you want to have some with colours, go ahead and fork the repo. The application uses OpenCV,which is a library of Python bindings designed 
+violet and green. So if you want to have some fun with colours, go ahead and fork the repo. The application uses OpenCV,which is a library of Python bindings designed 
 to solve computer vision problems. The application first detects the colour of the pen and then tracks the movement of its tip to draw patterns.
 
 ---
